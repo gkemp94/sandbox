@@ -14,7 +14,8 @@
     "@iframe-resizer/parent": "^5.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "styled-components": "^6.1.12"
+    "styled-components": "^6.1.12",
+    "url": "^0.11.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.65",
