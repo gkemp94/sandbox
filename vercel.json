@@ -1,0 +1,3 @@
+{
+  "redirects": [{ "source": "/iframe", "destination": "/iframe.html", "permanent": true }]
+}
